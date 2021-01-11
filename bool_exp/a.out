@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+
+t1 = True
+t2 = False
+t1 = t1 and t2
+print(t1)
